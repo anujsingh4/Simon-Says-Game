@@ -1,0 +1,53 @@
+body {
+text-align: center;
+background-color: #e0e1dd;
+}
+
+.blink {
+  animation: blinkAnimation 1s steps(2, start) infinite;
+}
+
+@keyframes blinkAnimation {
+  to {
+    visibility: hidden;
+  }
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 0.5rem;
+
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.green{
+    background-color: #63aac0;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
