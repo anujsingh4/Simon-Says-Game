@@ -13,11 +13,6 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScrip
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot](./screenshot.png) <!-- Add if you want later -->
-
----
 
 ## 🛠️ Features
 
@@ -56,15 +51,5 @@ git clone https://github.com/your-username/simon-says-game.git
 
 2. Open `index.html` in your browser.
 
----
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
