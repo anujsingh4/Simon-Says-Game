@@ -68,6 +68,3 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Made with ❤️ by [Your Name]
